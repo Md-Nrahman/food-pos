@@ -18,8 +18,8 @@ const LoginScreen = () => {
               <div class="mx-auto max-w-xs">
                 <input
                   class="w-full px-8 py-4 rounded-lg font-medium bg-gray-100 border border-gray-200 placeholder-gray-500 text-sm focus:outline-none focus:border-gray-400 focus:bg-white"
-                  type="email"
-                  placeholder="Email"
+                  type="text"
+                  placeholder="Username"
                 />
                 <input
                   class="w-full px-8 py-4 rounded-lg font-medium bg-gray-100 border border-gray-200 placeholder-gray-500 text-sm focus:outline-none focus:border-gray-400 focus:bg-white mt-5"
@@ -50,7 +50,7 @@ const LoginScreen = () => {
             class="m-12 xl:m-16 w-full bg-contain bg-center bg-no-repeat"
             style={{
               backgroundImage:
-                "url('https://www.skeps.com/hubfs/POS%20Lending%20Guide.png')",
+                "url('https://idynamics.com.my/wp-content/uploads/2021/09/ILLPOS2-1024x683.png')",
             }}
           ></div>
         </div>
