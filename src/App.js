@@ -5,7 +5,7 @@ import MenuScreen from "./screen/MenuScreen";
 function App() {
   return (
     <>
-      <LoginScreen />
+      <MenuScreen />
     </>
   );
 }
